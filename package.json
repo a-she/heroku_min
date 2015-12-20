@@ -1,5 +1,4 @@
 {
-  "name": "heroku_min",
   "scripts": {
     "start": "node index.js"
   },
