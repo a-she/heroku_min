@@ -8,9 +8,6 @@
     "ejs": "2.3.3",
     "express": "4.13.3"
   },
-  "engines": {
-    "node": "0.12.7"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://git.heroku.com/intense-dawn-1056.git"
