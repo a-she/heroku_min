@@ -1,0 +1,23 @@
+{
+  "name": "heroku_min",
+  "version": "1.0.0",
+  "description": "Test of minimal install required to deploy to Heroku",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-she/heroku_min.git"
+  },
+  "keywords": [
+    "Heroku",
+    "test"
+  ],
+  "author": "Al",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-she/heroku_min/issues"
+  },
+  "homepage": "https://github.com/a-she/heroku_min#readme"
+}
