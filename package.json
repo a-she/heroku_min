@@ -17,10 +17,6 @@
     "type": "git",
     "url": "git+https://git.heroku.com/intense-dawn-1056.git"
   },
-  "keywords": [
-    "Heroku",
-    "test"
-  ],
   "author": "Al She",
   "license": "MIT",
   "bugs": {
