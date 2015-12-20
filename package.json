@@ -4,8 +4,8 @@
   "description": "Tests minimal file set needed to deploy a web app to Heroku",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-    "test": "echo \"ERR: No test specified\" && exit 1",
+    "start": "node index.js",
+    "test": "echo \"ERR: No test specified\" && exit 1"
   },
   "dependencies": {
     "ejs": "2.3.3",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-she/heroku_min.git"
+    "url": "git+https://git.heroku.com/intense-dawn-1056.git"
   },
   "keywords": [
     "Heroku",
