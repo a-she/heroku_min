@@ -16,7 +16,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://git.heroku.com/intense-dawn-1056.git"
-  },
-  "author": "Al She",
-  "license": "MIT"
+  }
 }
