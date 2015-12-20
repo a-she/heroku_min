@@ -1,11 +1,11 @@
 {
   "name": "heroku_min",
   "version": "1.0.0",
-  "description": "Test of minimal install required to deploy to Heroku",
+  "description": "Tests minimal file set needed to deploy a web app to Heroku",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
+    "test": "echo \"ERR: No test specified\" && exit 1",
   },
   "dependencies": {
     "ejs": "2.3.3",
@@ -22,7 +22,7 @@
     "Heroku",
     "test"
   ],
-  "author": "Al",
+  "author": "Al She",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/a-she/heroku_min/issues"
