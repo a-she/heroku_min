@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"ERR: No test specified\" && exit 1"
   },
   "dependencies": {
     "ejs": "2.3.3",
